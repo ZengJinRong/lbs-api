@@ -1,0 +1,135 @@
+{
+  "status": 0,
+  "message": "成功",
+  "results": [{
+    "name": "加油站(洪湾北路)",
+    "location": {
+      "lat": 26.071371,
+      "lng": 119.24099
+    },
+    "address": "建新镇洪湾北路",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "仓山区",
+    "telephone": null,
+    "uid": "dde1e8d82f67dae69fec2b53",
+    "street_id": "c34a31039fded142f603b82e"
+  }, {
+    "name": "中石化埃索(福新加油站)",
+    "location": {
+      "lat": 26.014053,
+      "lng": 119.218254
+    },
+    "address": "福建省福州市闽侯县闽侯大学城(往永泰方向北海饭店旁)",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "闽侯县",
+    "telephone": null,
+    "uid": "93df0dc3f215af2b892fb5a9",
+    "street_id": "93df0dc3f215af2b892fb5a9"
+  }, {
+    "name": "白湖亭加油站",
+    "location": {
+      "lat": 26.033615,
+      "lng": 119.34038
+    },
+    "address": "福建省福州市仓山区则徐大道357号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "仓山区",
+    "telephone": null,
+    "uid": "68b3f884b535ea72336212a7",
+    "street_id": "9561f5424a430c023617dc90"
+  }, {
+    "name": "加油站(北环西路)",
+    "location": {
+      "lat": 26.112823,
+      "lng": 119.298164
+    },
+    "address": "二环北路101号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "鼓楼区",
+    "telephone": "(0591)87863760",
+    "uid": "78bd50f7ac69575b30870ab1",
+    "street_id": "78bd50f7ac69575b30870ab1"
+  }, {
+    "name": "加油站(光荣路小区西)",
+    "location": {
+      "lat": 26.092892,
+      "lng": 119.28826
+    },
+    "address": "西二环北路298号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "鼓楼区",
+    "telephone": null,
+    "uid": "bf82cd87934808096f3e1bad",
+    "street_id": "04e006119fb97b56c6effbd0"
+  }, {
+    "name": "中国石油(洪山桥加油站)",
+    "location": {
+      "lat": 26.083052,
+      "lng": 119.254295
+    },
+    "address": "妙峰路附近",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "仓山区",
+    "telephone": null,
+    "uid": "4eb3b5330d97210b430245fd",
+    "street_id": "4eb3b5330d97210b430245fd"
+  }, {
+    "name": "中国石油加油站",
+    "location": {
+      "lat": 26.034925,
+      "lng": 119.406845
+    },
+    "address": "福建省福州市马尾区宗棠路与104国道交汇处",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "马尾区",
+    "telephone": null,
+    "uid": "017825aaafae858c354aae08",
+    "street_id": "017825aaafae858c354aae08"
+  }, {
+    "name": "加油站(六一中路)",
+    "location": {
+      "lat": 26.067913,
+      "lng": 119.32715
+    },
+    "address": "六一中路319",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "台江区",
+    "telephone": null,
+    "uid": "9983eb3583043ff2b9df8f1a",
+    "street_id": "9983eb3583043ff2b9df8f1a"
+  }, {
+    "name": "中国石化五一加油站",
+    "location": {
+      "lat": 26.078672,
+      "lng": 119.318016
+    },
+    "address": "五一中路34号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "台江区",
+    "telephone": null,
+    "uid": "8ace2d7e4f47a87ac9291518",
+    "street_id": "8ace2d7e4f47a87ac9291518"
+  }, {
+    "name": "加油站(白塔大桥)",
+    "location": {
+      "lat": 26.485096,
+      "lng": 119.526474
+    },
+    "address": "福建省福州市罗源县凤南西路131",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "罗源县",
+    "telephone": null,
+    "uid": "5ffb18160472575f6f47605e",
+    "street_id": null
+  }]
+}

@@ -1,0 +1,9 @@
+#油价查询API
+##数据来源
+    Mob全国省市今日油价API
+    http://www.mob.com/product/api/detail/24
+##返回结果
+    最终结果类型：Result<OilPrice>
+                Result<List<OilPrice>>
+    数据结果类型：OilPrice
+    json示例：example.json
